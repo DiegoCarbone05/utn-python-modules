@@ -1,3 +1,5 @@
+# Guardo funciones en este archivo (funciones.py) para luego llamarlas desde el main
+
 def return_pramas(msg):
     print(msg)
     
